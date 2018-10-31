@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.kotlin.usercenter">
 
-    <application>
+    <application android:theme="@style/AppTheme">
         <activity android:name=".ui.activity.RegisterActivity">
         </activity>
     </application>
