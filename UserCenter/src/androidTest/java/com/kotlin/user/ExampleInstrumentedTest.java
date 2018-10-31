@@ -1,4 +1,4 @@
-package com.kotlin.usercenter;
+package com.kotlin.user;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

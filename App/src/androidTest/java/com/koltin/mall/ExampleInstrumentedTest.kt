@@ -1,4 +1,4 @@
-package mall.kotlin.com.kotlinmall
+package com.koltin.mall
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("mall.kotlin.com.kotlinmall", appContext.packageName)
+        assertEquals("com.koltin.mall", appContext.packageName)
     }
 }

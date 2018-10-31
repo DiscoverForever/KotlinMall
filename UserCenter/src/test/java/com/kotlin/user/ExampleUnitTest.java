@@ -1,4 +1,4 @@
-package com.kotlin.usercenter;
+package com.kotlin.user;
 
 import org.junit.Test;
 

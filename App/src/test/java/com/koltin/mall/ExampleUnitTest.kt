@@ -1,4 +1,4 @@
-package mall.kotlin.com.kotlinmall
+package com.koltin.mall
 
 import org.junit.Test
 
